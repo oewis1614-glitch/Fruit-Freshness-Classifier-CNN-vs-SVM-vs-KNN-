@@ -1,5 +1,5 @@
 streamlit
 tensorflow
+scikit-learn
 pillow
 numpy
-scikit-learn
